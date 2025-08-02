@@ -45,4 +45,4 @@ If you find my work useful, feel free to support me:
 ## 📫 Connect
 
 - GitHub: [@nguyendee88](https://github.com/nguyendee88)  
-- Email: nguyendee.dev@gmail.com  
+- Email: nguyendee.tech@gmail.com  
