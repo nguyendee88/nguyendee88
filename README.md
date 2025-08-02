@@ -38,8 +38,10 @@ I'm a backend-focused software engineer with over 14 years of experience buildin
 
 ## ☕ Support My Work
 
-If my work has helped you or inspired your project, consider supporting me here:  
+If you find any of my open-source work useful — whether it saved you time, improved your project, or gave you ideas — feel free to support it below 👇
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nguyendee88)
+
 
 ---
 
