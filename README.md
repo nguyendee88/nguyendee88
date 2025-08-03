@@ -20,7 +20,7 @@ I'm a backend-focused software engineer with over 14 years of experience buildin
 
 ## 🧰 Tech Stack
 
-- **Languages**: `Java`, `Python`, `TypeScript`  
+- **Languages**: `Java`, `Python`, `Javascript`  
 - **Databases**: `Elasticsearch`, `ClickHouse`, `MongoDB`, `Redis`  
 - **Infrastructure**: `Kubernetes`, `Docker`, `GitLab CI/CD`  
 - **Messaging**: `Kafka`, `Google Pub/Sub`  
